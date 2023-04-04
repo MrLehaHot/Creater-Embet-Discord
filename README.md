@@ -1,2 +1,4 @@
-# Creater-Embet-Discord
-Данный бот поможет создавать Embet для discord серверов!
+# Creater Embet Discord
+Бот для создания "эмбетов" на серверах discord!
+
+Данный бот сделан на discord.js V.14
